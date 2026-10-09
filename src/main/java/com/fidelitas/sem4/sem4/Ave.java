@@ -18,5 +18,5 @@ public class Ave extends animal {
     public String hacerSonido() {
         return super.hacerSonido() + " (Sonido del ave) ";
     }
-
+//Sexo duro
 }
